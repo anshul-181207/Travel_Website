@@ -29,4 +29,5 @@ This web project was built for a Web Designing assignment, focusing on presentin
 ---
 
 
-Created by *Dhananjay Dua* (KIET UID: 202501100400129)
+Created by ANSHUL SINGH
+
